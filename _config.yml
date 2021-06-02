@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MatJek
+title: JYH TECH-BLOG
 description: > # this means to ignore newlines until "baseurl:"
-  Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
-baseurl: "/matjek"
+  My Github Blog Description
+baseurl: "/"
 url: "https://shawnteoh.github.io"
-permalink: /:year/:month/:day/:title
+permalink: /_posts/:title
 repository: ShawnTeoh/matjek
 paginate: 5
 
